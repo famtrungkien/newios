@@ -8,7 +8,6 @@ import 'package:intl/intl.dart';
 import 'dart:async';
 import 'package:flutter/services.dart';
 import 'dart:math';
-import 'package:soundpool/soundpool.dart';
 import 'package:just_audio/just_audio.dart';
 
 void main() => runApp(MyApp());
